@@ -1,0 +1,28 @@
+h1 
+{
+    background-color: red;
+    text-align: center;
+    border-radius: 20px;
+}
+
+a
+{
+    font-style: italic;
+}
+
+li
+{
+    line-height: 40px;
+    font-weight: 400;
+}
+
+.description
+{
+    font-family: cursive;
+    font-size: 22px;
+}
+
+.centered
+{
+    text-align: center;
+}
